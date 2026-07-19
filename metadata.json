@@ -1,0 +1,6 @@
+{
+  "name": "Study Streak",
+  "description": "A modern gamified study habit tracker with Pomodoro timer, GitHub-style calendar, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
